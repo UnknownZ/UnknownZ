@@ -1,4 +1,4 @@
-![Header](./github-header.png)
+![Header](./github-header-image.png)
 
 <!--
 **UnknownZ/UnknownZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
